@@ -3,3 +3,5 @@
 !**.py
 !*.ipynb
 !*.gitignore
+!requirements.txt
+!README.md
